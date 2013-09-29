@@ -1,0 +1,12 @@
+
+
+
+SICKBEARD_HOST=localhost
+
+SICKBEARD_EXTERNAL_HOST=<external host>
+
+SICKBEARD_PORT=<port>
+
+SICKBEARD_API_KEY=abcdefg123456789
+
+
